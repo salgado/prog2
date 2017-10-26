@@ -1,0 +1,5 @@
+nome nota
+joao 1.1
+maria 2.3
+jose 7.0
+fulano 6.5
